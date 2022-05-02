@@ -1,0 +1,23 @@
+{
+  "name": "screenshot-pipeline",
+  "version": "1.0.0",
+  "description": "This is an open source project from [DevProjects](http://www.codementor.io/projects). Feedback and questions are welcome!\r Find the project requirements here: [Build a screenshot pipeline](https://www.codementor.io/projects/web/build-a-screenshot-pipeline-c22ccscro8)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrDuise/Screenshot-pipeline.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrDuise/Screenshot-pipeline/issues"
+  },
+  "homepage": "https://github.com/MrDuise/Screenshot-pipeline#readme",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
+}
